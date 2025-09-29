@@ -1,0 +1,14 @@
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\bin\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.exe
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\bin\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.deps.json
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\bin\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.runtimeconfig.json
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\bin\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.dll
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\bin\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.pdb
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\obj\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\obj\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.AssemblyInfoInputs.cache
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\obj\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.AssemblyInfo.cs
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\obj\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.csproj.CoreCompileInputs.cache
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\obj\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.dll
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\obj\Debug\net8.0\refint\Concept_Claves_Interfaces_POO_AP.dll
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\obj\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.pdb
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\obj\Debug\net8.0\Concept_Claves_Interfaces_POO_AP.genruntimeconfig.cache
+C:\Users\Mipro\source\repos\Concept_Claves_Interfaces_POO_AP\Concept_Claves_Interfaces_POO_AP\obj\Debug\net8.0\ref\Concept_Claves_Interfaces_POO_AP.dll
